@@ -1,0 +1,10 @@
+db.path=/tmp/gbb/database/gbbdb
+tm.tx_logs_path=/tmp/gbb/tm/tx-logs/
+xadisk.tx_logs_path=/tmp/gbb/xadisk/tx-logs/
+file_storage = /tmp/gbb/storage
+admin_password_sha256=
+file_record_lru_size=2048
+
+
+
+
